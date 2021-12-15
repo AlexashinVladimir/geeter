@@ -1,5 +1,5 @@
 # Geeter
-It's a little CRUD applicathion.
+It's a little CRUD application.
 
 Was used in the project
 
